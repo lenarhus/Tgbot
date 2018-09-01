@@ -3,7 +3,7 @@
 $settings = [
     // настройки для нескольких ботов в формате: 'имя_бота' => 'токен'
     'bots' => [
-        'NAME' => 'TOKEN',
+        'btcchangerobot' => '395073680:AAEW9RsEdUZKNLC4BYkQEk6bU2cmzM9UVdw',
     ],
 
     'dbHost'     => 'localhost',       // Хост базы
