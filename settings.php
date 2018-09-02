@@ -3,7 +3,7 @@
 $settings = [
     // настройки для нескольких ботов в формате: 'имя_бота' => 'токен'
     'bots' => [
-        'NAME' => 'TOKEN',
+        'herokutestpipbot' => '377736641:AAHm8BrhKN_nS7bNs1LqAsPus4ts5V-DsSc',
     ],
 
     'dbHost'     => 'localhost',       // Хост базы
